@@ -18,3 +18,5 @@ this is my second task of my first summer internship in python programming
 *OUTPUT*: ![Image](https://github.com/user-attachments/assets/d4a9a8f6-933b-459a-b150-7fc5dd8f1954)
 
 *CSV FILE*:[sample_data.csv](https://github.com/user-attachments/files/20967466/sample_data.csv)
+
+*REPORT FILE*:[report_task_02.pdf](https://github.com/user-attachments/files/20967469/report_task_02.pdf)
